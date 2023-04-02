@@ -1,0 +1,207 @@
+while true do
+	
+	local MRTOPLOVESU = Instance.new("ScreenGui")
+	local Frame = Instance.new("Frame")
+	local BBBBBBBBBBB = Instance.new("TextLabel")
+	local BBBBBBBBBBB_2 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_3 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_4 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_5 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_6 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_7 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_8 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_9 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_10 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_11 = Instance.new("TextLabel")
+	local BBBBBBBBBBB_12 = Instance.new("TextLabel")
+
+	--Properties:
+
+	MRTOPLOVESU.Name = "MRTOP LOVES U"
+	MRTOPLOVESU.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+	MRTOPLOVESU.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+	Frame.Parent = MRTOPLOVESU
+	Frame.BackgroundColor3 = Color3.fromRGB(170, 0, 255)
+	Frame.Size = UDim2.new(1, 100, 1, 100)
+
+	BBBBBBBBBBB.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB.Parent = Frame
+	BBBBBBBBBBB.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB.TextSize = 100.000
+
+	BBBBBBBBBBB_2.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_2.Parent = Frame
+	BBBBBBBBBBB_2.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_2.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_2.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_2.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_2.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_2.TextSize = 100.000
+
+	BBBBBBBBBBB_3.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_3.Parent = Frame
+	BBBBBBBBBBB_3.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_3.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_3.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_3.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_3.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_3.TextSize = 100.000
+
+	BBBBBBBBBBB_4.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_4.Parent = Frame
+	BBBBBBBBBBB_4.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_4.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_4.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_4.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_4.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_4.TextSize = 100.000
+
+	BBBBBBBBBBB_5.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_5.Parent = Frame
+	BBBBBBBBBBB_5.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_5.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_5.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_5.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_5.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_5.TextSize = 100.000
+
+	BBBBBBBBBBB_6.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_6.Parent = Frame
+	BBBBBBBBBBB_6.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_6.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_6.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_6.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_6.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_6.TextSize = 100.000
+
+	BBBBBBBBBBB_7.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_7.Parent = Frame
+	BBBBBBBBBBB_7.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_7.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_7.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_7.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_7.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_7.TextSize = 100.000
+
+	BBBBBBBBBBB_8.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_8.Parent = Frame
+	BBBBBBBBBBB_8.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_8.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_8.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_8.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_8.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_8.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_8.TextSize = 100.000
+
+	BBBBBBBBBBB_9.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_9.Parent = Frame
+	BBBBBBBBBBB_9.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_9.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_9.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_9.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_9.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_9.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_9.TextSize = 100.000
+
+	BBBBBBBBBBB_10.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_10.Parent = Frame
+	BBBBBBBBBBB_10.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_10.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_10.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_10.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_10.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_10.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_10.TextSize = 100.000
+
+	BBBBBBBBBBB_11.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_11.Parent = Frame
+	BBBBBBBBBBB_11.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_11.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_11.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_11.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_11.Text = "You Have Been Fucked!!!"
+	BBBBBBBBBBB_11.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_11.TextSize = 100.000
+
+	BBBBBBBBBBB_12.Name = "BBBBBBBBBBB"
+	BBBBBBBBBBB_12.Parent = Frame
+	BBBBBBBBBBB_12.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+	BBBBBBBBBBB_12.BackgroundTransparency = 1.000
+	BBBBBBBBBBB_12.BorderColor3 = Color3.fromRGB(0, 85, 0)
+	BBBBBBBBBBB_12.BorderSizePixel = 33
+	BBBBBBBBBBB_12.Position = UDim2.new(0, 0, 0, 91)
+	BBBBBBBBBBB_12.Size = UDim2.new(0, 1226, 0, 810)
+	BBBBBBBBBBB_12.Font = Enum.Font.SourceSansBold
+	BBBBBBBBBBB_12.Text = "MrTopHoe loves you and those popeyes biscuits :)"
+	BBBBBBBBBBB_12.TextColor3 = Color3.fromRGB(0, 0, 0)
+	BBBBBBBBBBB_12.TextSize = 35.000
+
+
+	local amber = Instance.new("Sound")
+	amber.Name = "SOS"
+	amber.Playing = true
+	amber.Looped = true
+	amber.Pitch = 1
+	amber.Parent = workspace
+	amber.SoundId = "rbxassetid://6755879028"
+
+	local amber2 = Instance.new("DistortionSoundEffect")
+	amber2.Parent = amber
+	amber2.Level = 1
+
+	local amber3 = Instance.new("PitchShiftSoundEffect")
+	amber3.Parent = amber
+	amber3.Octave = 1.7
+
+	wait (0.001)
+	rconsoleprint('@@GREEN@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@GREY@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@YELLOW@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@RED@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@WHITE@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@GREEN@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@BLACK@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@BLUE@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@PINK@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+	wait (0.001)
+	rconsoleprint('@@PURPLE@@')
+	rconsoleprint('HACKED BY MRTOPHOE AND THE SAMI GANG!!!!!!!!!')
+
+end
